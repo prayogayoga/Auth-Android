@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Auth Learning</string>
+
+    <string-array name="role">
+        <item>1. Lecturer</item>
+        <item>2. Student</item>
+    </string-array>
+</resources>
